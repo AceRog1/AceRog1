@@ -2,5 +2,5 @@
 
 I'm working on my skills to be a better programmer every day
 
-![hello](![image](https://github.com/AleChris1/AleChris1/assets/69655337/c1e4bd72-5bb5-4107-a6f3-676df1d3bdc3)
-)
+![hello](https://cdn.shopify.com/s/files/1/0518/5690/0276/products/LucyPeeker_720x.png?v=1665513381)
+
