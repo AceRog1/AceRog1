@@ -1,8 +1,8 @@
-### Hello there 👋
+## Hello there 👋
 
 I'm working on my skills to be a better programmer every day!
 
-### Visitors Count
+## Visitors Count
 
 ![Visitor Count](https://profile-counter.glitch.me/AleChris1/count.svg)
 
