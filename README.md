@@ -1,7 +1,5 @@
 <h1 align="center">Hi👋 I'm Acerog.</h1>
 
-## Hello there 👋
-
 I'm working on my skills to be a better programmer every day!
 
 ## Visitors Count
