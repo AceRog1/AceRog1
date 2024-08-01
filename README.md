@@ -13,7 +13,7 @@ I'm working on my skills to be a better programmer every day!
 
 ## Instagram 📷
 <div align="center">
-  <img src="acerog_1_qr.png"  width="200" height="200">
+  <img src="acerog_1_qr.png"  height="200">
 </div>
 
 ## Visitors Count👀
