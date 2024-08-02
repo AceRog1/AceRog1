@@ -16,7 +16,7 @@ I'm working on my skills to be a better programmer every day!
   <img src="acerog_1_qr.png"  height="200">
 </div>
 
-## Visitors Count👀
+## Visitors Count 👀
 
 ![Visitor Count](https://profile-counter.glitch.me/AleChris1/count.svg)
 
