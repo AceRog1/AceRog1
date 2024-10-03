@@ -7,9 +7,8 @@ I'm working on my skills to be a better programmer every day!
 * Verilog 💻
 
 ### To Learn
-| <img src=".svg" alt="Next" width="25"/> | <img src="fastapi-1.svg" alt="FastAPI" width="25"/> | <img src="flask.svg" alt="Flask" width="25"/> | <img src="react-2.svg" alt="React" width="25"/> | <img src="expo-1.svg" alt="Expo" width="25"/> | <img src="postgresql.svg" alt="Postgres" width="25"/> | <img src="git-icon.svg" alt="Git" width="25"/> | <img src="docker-4.svg" alt="Docker" width="25"/> | <img src="postman.svg" alt="Postman" width="25"/> |
-|----------------------------------------|-----------------------------------------|-----------------------------------------|-----------------------------------------|-----------------------------------------|-----------------------------------------|-----------------------------------------|-----------------------------------------|-----------------------------------------|
-
+| <img src="rust-svgrepo-com.svg" alt="Rust" width="25"/> | <img src="typescript-icon-svgrepo-com.svg" alt="Typescript" width="25"/> | <img src="nextjs-icon-svgrepo-com.svg" alt="NextJS" width="25"/> | <img src="astro-svgrepo-com.svg" alt="Astro" width="25"/> |
+|----------------------------------------|-----------------------------------------|-----------------------------------------|-----------------------------------------|
 
 ## Technologies💻 and Tools🧰
 
