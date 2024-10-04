@@ -7,8 +7,10 @@ I'm working on my skills to be a better programmer every day!
 * Verilog 💻
 
 ### To Learn
-| <img src="rust-svgrepo-com.svg" alt="Rust" width="25"/> | <img src="typescript-icon-svgrepo-com.svg" alt="Typescript" width="25"/> | <img src="nextjs-icon-svgrepo-com.svg" alt="NextJS" width="25"/> | <img src="astro-svgrepo-com.svg" alt="Astro" width="25"/> |
-|----------------------------------------|-----------------------------------------|-----------------------------------------|-----------------------------------------|
+* Typescript 💻
+* Rust 🖥️
+* Next.js 👩‍💻
+* Astro ⌨️
 
 ## Technologies💻 and Tools🧰
 
