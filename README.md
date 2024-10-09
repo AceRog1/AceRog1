@@ -5,9 +5,9 @@ I'm working on my skills to be a better programmer every day!
 ### Learning:
 * Assembly 👨‍💻
 * Verilog 💻
+* Typescript 💻
 
 ### To Learn
-* Typescript 💻
 * Rust 🖥️
 * Next.js 👩‍💻
 * Astro ⌨️
