@@ -3,7 +3,7 @@
 I'm working on my skills to be a better programmer every day!
 
 ### Learning:
-* Assembly 👨‍💻
+* Assembly ARMv7 👨‍💻
 * Verilog 💻
 * Typescript 💻
 
