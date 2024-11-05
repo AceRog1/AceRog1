@@ -6,9 +6,9 @@ I'm working on my skills to be a better programmer every day!
 * Assembly ARMv7 👨‍💻
 * Verilog 💻
 * Typescript 💻
+* Rust 🖥️
 
 ### To Learn
-* Rust 🖥️
 * Next.js 👩‍💻
 * Astro ⌨️
 
