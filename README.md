@@ -1,4 +1,4 @@
-<h1 align="center">Hi👋 I'm Acerog</h1>
+<h1 align="center">Hi/Hola/你好👋 I'm Acerog</h1>
 
 I'm working on my skills to be a better programmer every day!
 
