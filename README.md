@@ -5,11 +5,11 @@ I'm working on my skills to be a better programmer every day!
 ### Learning:
 * Assembly ARMv7 👨‍💻
 * Verilog 💻
+* Next.js 👩‍💻
 * Typescript 💻
 * Rust 🖥️
 
 ### To Learn
-* Next.js 👩‍💻
 * Astro ⌨️
 
 ## Technologies💻 and Tools🧰
