@@ -17,6 +17,7 @@ I'm working on my skills to be a better programmer every day!
 * Rust
 * Assembly ARMv7
 * Verilog
+* AWS
 
 ## Visitors Count 👀
 
