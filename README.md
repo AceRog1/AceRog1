@@ -17,11 +17,6 @@ I'm working on my skills to be a better programmer every day!
  ![Postgres](postgresql.svg) | ![Git](git-icon.svg) | ![Docker](docker-4.svg) | ![Postman](postman.svg) | ![Rust](rust.svg) | ![Assembly](assembly.svg) | ![Verilog](systemverilog.svg) | ![AWS](aws-2.svg) |
 |----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|
 
-* Rust
-* Assembly ARMv7
-* Verilog
-* AWS
-
 ## Visitors Count 👀
 
 ![Visitor Count](https://profile-counter.glitch.me/AleChris1/count.svg)
