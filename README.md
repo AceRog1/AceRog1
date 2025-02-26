@@ -9,6 +9,7 @@ I'm working on my skills to be a better programmer every day!
 
 ### To Learn
 * Astro ⌨️
+* Q# (Quantum Computing) ⚛️
 
 ## Technologies💻 and Tools🧰
 
