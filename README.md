@@ -6,6 +6,7 @@ I'm working on my skills to be a better programmer every day!
 * Next.js 👩‍💻
 * Typescript 💻
 * Machine Learning 🤖
+* Big Data 💾
 
 ### To Learn
 * Astro ⌨️
