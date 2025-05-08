@@ -17,7 +17,7 @@ I'm working on my skills to be a better programmer every day!
 | ![C](c-1.svg) | ![C++](c.svg) | ![Python](python-5.svg) | ![javascript](logo-javascript.svg) | ![HTML](html-1.svg) | ![CSS](css-3.svg) | ![FastAPI](fastapi-1.svg) | ![Flask](flask.svg) | ![React](react-2.svg) | ![Expo](expo-1.svg) |
 |---------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|
 
- ![Postgres](postgresql.svg) | ![Git](git-icon.svg) | ![Docker](docker-4.svg) | ![Postman](postman.svg) | ![Rust](rust.svg) | ![Assembly](assembly.svg) | ![Verilog](systemverilog.svg) | ![AWS](aws-2.svg) | ![JupyterNotebook] !(jupyter-notebook.svg) |
+ ![Postgres](postgresql.svg) | ![Git](git-icon.svg) | ![Docker](docker-4.svg) | ![Postman](postman.svg) | ![Rust](rust.svg) | ![Assembly](assembly.svg) | ![Verilog](systemverilog.svg) | ![AWS](aws-2.svg) | ![JupyterNotebook](jupyter-notebook.svg) |
 |----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|
 
 ## Visitors Count 👀
